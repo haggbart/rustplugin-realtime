@@ -2,7 +2,7 @@ Syncs ingame time with real time, days will be 24 hours long as in real life.
 
 ## Configuration
 
-- `Time offset in hours` - Can be a negative.
+- `Time offset in hours` - Can be negative.
 
 
 ## Usage
