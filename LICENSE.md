@@ -1,1 +1,1 @@
-none
+gpl3
